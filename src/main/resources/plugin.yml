@@ -1,0 +1,8 @@
+name: SpecFix
+main: me.avixk.SpecFix.Main
+api-version: 1.16
+version: 1.0.0
+load: POSTWORLD
+author: avixk
+commands:
+permissions:

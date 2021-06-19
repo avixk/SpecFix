@@ -1,0 +1,11 @@
+
+ # BOTH must be enabled to fix spectator bugs.
+
+ # When enabled, the spectator will be teleported to their target every 2 seconds to fix broken chunk loading for spectators.
+teleport_spectator_to_target_constantly: true
+
+ # When enabled, the spectator will be removed from their target, teleported, then added back to their target every time the target teleports.
+teleport_spectator_to_target_on_teleports: true
+
+ # When enabled, the spectator will be teleported to their target on respawn.
+teleport_spectator_to_target_on_respawn: true
